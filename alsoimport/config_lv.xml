@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>alsoimports</name>
+    <displayName><![CDATA[Also imports]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Also API importēšanas modulis ]]></description>
+    <author><![CDATA[Presta24.eu]]></author>
+    <tab><![CDATA[cits]]></tab>
+	<confirmUninstall><![CDATA[Vai tiešām vēlaties dzēst?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
