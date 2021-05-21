@@ -4,7 +4,7 @@
  * Additional projects: http://sourceforge.net/projects/debugobject/
  * Acknowledge: Jose Solorzano (https://sourceforge.net/projects/php-html/)
  *
- * Licensed under The MIT License
+ * Licensed under The MIT License.
  * See the LICENSE file in the project root for more information.
  *
  * Authors:
